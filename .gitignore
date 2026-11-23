@@ -1,0 +1,28 @@
+# Built index — ~4.8 GB. Regenerate with build_index.py (see README).
+legal_index/
+*.faiss
+*.pkl
+
+# Document corpus — 37,744 legal documents
+files/
+corpus/
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
