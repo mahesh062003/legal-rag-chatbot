@@ -84,3 +84,12 @@ belongs in Git. Point `build_index.py` at your own documents to generate one.
 
 Python · Flask · Flask-SocketIO · LangChain · sentence-transformers · FAISS ·
 rank_bm25 · PyMuPDF · BeautifulSoup · lxml · spaCy · PyTorch
+
+---
+
+## Use
+
+© 2026 Mahesh Veeraiah R. All rights reserved.
+
+Published for review and assessment. Not licensed for reuse, redistribution or
+modification — please get in touch about any other use.
